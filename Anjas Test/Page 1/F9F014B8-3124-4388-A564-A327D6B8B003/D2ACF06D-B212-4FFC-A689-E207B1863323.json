@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.611764705882353,
-            "green": 0.5803921568627451,
-            "red": 0.5058823529411764
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -20,24 +20,23 @@
               "size": 12
             }
           },
-          "kerning": 0,
+          "kerning": 0.1000000014901161,
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "allowsDefaultTighteningForTruncation": 0
+            "alignment": 2
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
+        "length": 5,
         "location": 0
       }
     ],
-    "string": "Axels Rechteck :)"
+    "string": "Anjas"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D47E8C73-EAA6-4F65-8222-C81DDB1B6455",
+  "do_objectID": "D2ACF06D-B212-4FFC-A689-E207B1863323",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -52,11 +51,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 15,
-    "width": 89,
-    "x": 246,
-    "y": 246
+    "width": 67,
+    "x": 53,
+    "y": 173
   },
-  "glyphBounds": "{{0, 2}, {89, 12}}",
+  "glyphBounds": "{{18, 3}, {30, 12}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,9 +64,9 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Axels Rechteck :)",
+  "name": "Anjas",
   "nameIsFixed": false,
-  "resizingConstraint": 47,
+  "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -82,9 +81,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.611764705882353,
-          "green": 0.5803921568627451,
-          "red": 0.5058823529411764
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -93,11 +92,10 @@
             "size": 12
           }
         },
-        "kerning": 0,
+        "kerning": 0.1000000014901161,
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "allowsDefaultTighteningForTruncation": 0
+          "alignment": 2
         },
         "textStyleVerticalAlignmentKey": 0
       },
@@ -105,11 +103,11 @@
     },
     "windingRule": 1
   },
-  "textBehaviour": 0,
+  "textBehaviour": 1,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
       "kModelPropertiesKey": {
-        "isAutoWidth": 1
+        "isAutoWidth": 0
       }
     }
   }

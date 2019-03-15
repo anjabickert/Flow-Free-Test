@@ -64,6 +64,10 @@
     {
       "class": "text",
       "id": "D2ACF06D-B212-4FFC-A689-E207B1863323"
+    },
+    {
+      "class": "oval",
+      "id": "C395D0A4-60C3-4C3B-BCB2-1BC061757A84"
     }
   ],
   "name": "r",

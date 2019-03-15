@@ -1,0 +1,105 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8A7E117D-F8D8-4CD7-94C4-677EFBB49C23",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "2C886196-7C26-4076-A0D5-6A003EA31C62"
+    },
+    {
+      "class": "shapePath",
+      "id": "7301B798-27E8-440C-869D-16856B3512CB"
+    },
+    {
+      "class": "shapePath",
+      "id": "82651033-B548-4532-98D4-787D1774BE78"
+    },
+    {
+      "class": "shapePath",
+      "id": "26F50476-D774-4D96-9F93-A74B736E884A"
+    }
+  ],
+  "name": "Info",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 18,
+            "enabled": 1,
+            "modelID": "constraint_69d87e7a-3780-40bc-8ce4-619c3fd87967",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 18
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_6c0b79c8-ec4f-4ec2-8fdf-6c67fcd2a2b9",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

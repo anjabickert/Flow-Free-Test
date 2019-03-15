@@ -1,0 +1,100 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5233A6F2-46BE-44AA-8A2C-FC8EDD85FB4F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "38671095-BADF-41D7-9616-0E26A2F4B8E3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9BB0971E-A86E-4B31-B7F7-7930136A6E3E",
+    "height": 18,
+    "width": 18,
+    "x": 3,
+    "y": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "1F33BA2E-8EDE-4628-8EE7-E87F7AE3986E"
+    },
+    {
+      "class": "shapePath",
+      "id": "CF09F70C-65B5-4D71-B5A9-3F4123DE067A"
+    }
+  ],
+  "name": "Download",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7EE6380B-131C-466F-B694-078C1682FCCB",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 18,
+            "enabled": 1,
+            "modelID": "constraint_7d59086b-c685-46f1-b0a9-6cdc55ad71ea",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 18
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_eb2e5372-d61d-484d-83af-a3c8058e73b6",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

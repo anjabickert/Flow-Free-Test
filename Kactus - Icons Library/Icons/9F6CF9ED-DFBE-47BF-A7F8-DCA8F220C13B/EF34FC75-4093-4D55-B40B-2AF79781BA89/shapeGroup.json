@@ -1,0 +1,109 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EF34FC75-4093-4D55-B40B-2AF79781BA89",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 15,
+    "width": 22,
+    "x": 1,
+    "y": 4.5
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "D2AC3913-47A8-4E00-8DB8-440D82E85001"
+    },
+    {
+      "class": "shapePath",
+      "id": "EB05BE7B-B29F-48D6-A66A-7C52E5793722"
+    },
+    {
+      "class": "shapePath",
+      "id": "F9E28C09-8F3F-4903-B8D5-B426AC069C12"
+    },
+    {
+      "class": "shapePath",
+      "id": "53C28E85-A94A-48C5-A840-E323A7307CEC"
+    },
+    {
+      "class": "shapePath",
+      "id": "63668DD2-F243-426A-984A-E152A58A8C54"
+    }
+  ],
+  "name": "Image",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1058823529411765,
+          "green": 0.1137254901960784,
+          "red": 0.1137254901960784
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 15,
+            "enabled": 1,
+            "modelID": "constraint_5fd5d35d-a20d-4abc-990e-db5da4223b49",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 22
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_0fbbc172-aac9-4432-8e62-9b9c05cfb55f",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1,
+          "scaleFactor": 1
+        }
+      }
+    }
+  },
+  "windingRule": 0
+}

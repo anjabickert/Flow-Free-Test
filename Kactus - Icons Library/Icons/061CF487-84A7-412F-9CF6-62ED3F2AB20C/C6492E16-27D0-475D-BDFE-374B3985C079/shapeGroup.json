@@ -1,0 +1,88 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C6492E16-27D0-475D-BDFE-374B3985C079",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 20.00290740427289,
+    "width": 20.06679483765063,
+    "x": 1.966602581174687,
+    "y": 1.998546297863555
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "B5C9BCAA-B611-4179-83F4-17AB6B93E169"
+    },
+    {
+      "class": "shapePath",
+      "id": "1956B544-F46F-480D-B357-5C412E439D93"
+    },
+    {
+      "class": "shapePath",
+      "id": "1A3A1CAE-361E-40A1-912A-D9AB7E8947AD"
+    },
+    {
+      "class": "shapePath",
+      "id": "13F62C2D-C85A-4B2A-B948-DC0DB3F81532"
+    },
+    {
+      "class": "shapePath",
+      "id": "FC1BF416-D841-472B-A9C2-6C210F43CF89"
+    }
+  ],
+  "name": "Pdf",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

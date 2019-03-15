@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2E0042FD-A363-4193-9070-54AD583DFE19",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FE2BCC9C-1B77-4D38-B0DB-EE555BFA53BD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3AAA49EC-AD28-43A3-9596-43E0B0D615EC",
+    "height": 19,
+    "width": 17,
+    "x": 3.764999999999999,
+    "y": 2.414999999999999
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5F97FBF3-E491-45FB-8432-02149A993EA9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2D8CBBD-8075-45F4-873C-213ECA4B8080"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0111FC4A-43D0-42EE-9522-BFB0150841C3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5815E667-7016-4E07-A2D0-FD9DD365ED4F"
+    }
+  ],
+  "name": "ARKit_Glyph",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "do_objectID": "39B982E5-8ADB-41C7-9D3F-254C2C831A1C",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 2.7,
+      "saturation": 1,
+      "type": 0
+    },
+    "do_objectID": "1C568763-BF29-46F9-B321-7712E68EC0A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
